@@ -19,7 +19,7 @@
 ### Languages and Tools:
   
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />
-<img align="left" alt="PostGreSQL" width="30px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="PostGreSQL" width="110px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
   
 
