@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently a Postgraduate Student for Master of IT in Business (Fintech & Analytics Track) @ SMU
 - 🌱 I’m passionate about Data Analytics, Data Science and innovative Digital Initiatives
-- ⚡ Fun fact: I love reading and hope to find more time to maintain this hobby!
+- :books: Fun fact: I love reading and hope to find more time to maintain this hobby!
 
-### :zap: GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 
 <table>
 <tr>
@@ -15,5 +15,12 @@
   <td width="52%"><img alt="gif" align="right" src="https://github.com/CaitlynRepo/CaitlynRepo/blob/main/d4tvukbt5mra37cvwklk.gif"/></td>
 </tr>
 <table>
+  
+### Languages and Tools:
+  
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/python.png" />
+<img align="left" alt="PostGreSQL" width="30px" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  
 
 
