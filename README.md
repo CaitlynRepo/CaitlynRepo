@@ -1,6 +1,6 @@
 ### Hi, I'm Caitlyn Le 👋 - aka a Data Science Enthusiast :smiley:
 
-- 🔭 I’m currently a Postgraduate Student for Master of IT in Business (Fintech & Analytics Track) @ SMU
+- 🔭 I’m currently a data analyst and ...
 - 🌱 I’m passionate about Data Analytics, Data Science and innovative Digital Initiatives
 
 ### :chart_with_upwards_trend: GitHub Stats
