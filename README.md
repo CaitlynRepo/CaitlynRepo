@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently a Postgraduate Student for Master of IT in Business (Fintech & Analytics Track) @ SMU
 - 🌱 I’m passionate about Data Analytics, Data Science and innovative Digital Initiatives
-- :books: Fun fact: I love reading and hope to find more time to maintain this hobby!
 
 ### :chart_with_upwards_trend: GitHub Stats
 
